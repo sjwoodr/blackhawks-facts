@@ -1,0 +1,8 @@
+# virtualenv files
+venv
+
+# test output
+.output
+
+# Mac OS folder information
+.DS_Store
